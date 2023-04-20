@@ -18,6 +18,7 @@ public class HW_1 {
 
     public static void main(String[] dz1) {
 
+
 // 1 task
         System.out.print("Случайное число: ");
         int i = new Random().nextInt(0, 2000);
