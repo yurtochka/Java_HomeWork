@@ -11,6 +11,7 @@ int i = new Random().nextInt(k); //это кидалка случайных чи
 
 package org.example;
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class HW_1 {
@@ -54,7 +55,6 @@ public class HW_1 {
                 m2[size_array1] = j;
                 size_array1++;
             }
-
         }
     }
 }
